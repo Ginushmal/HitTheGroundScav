@@ -1,0 +1,3 @@
+repository "HitTheGroundScavHunt@Ginushmal_Wikumjith@cloud"
+  path "/"
+    smartbranch "/main"

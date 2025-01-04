@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="test_targ" size="2.430000 1.968680" />
+    <ImageTarget name="Backdrop_croped" size="2.430000 1.634501" />
+    <ImageTarget name="cube_4" size="0.290000 0.290000" />
+    <ImageTarget name="cube_3" size="0.290000 0.290000" />
+    <ImageTarget name="cube_2" size="0.290000 0.290000" />
+    <ImageTarget name="cube_1" size="0.290000 0.290000" />
+    <ImageTarget name="Backdrop" size="3.650000 2.455115" />
+  </Tracking>
+</QCARConfig>
